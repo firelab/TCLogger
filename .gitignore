@@ -8,6 +8,12 @@
 *.sln
 *.vcxproj
 *.vcxproj.filters
+*.xml
+*.o
+*.elf
+*.map
+*.hex
+
 *.mk
 *.properties
 
@@ -61,6 +67,7 @@ dlldata.c
 *.pidb
 *.svclog
 *.scc
+
 
 # Chutzpah Test files
 _Chutzpah*
@@ -196,3 +203,6 @@ ModelManifest.xml
 # vim
 *.swo
 *.swp
+
+ds30SdCardLoader_24HJ128GP202_12p.a
+p24HJ128GP202_ds30_bl_12p.gld
